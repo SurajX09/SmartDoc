@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="24" fill="#2563EB"/>
+  <text
+    x="60"
+    y="74"
+    font-size="56"
+    font-family="Arial"
+    font-weight="bold"
+    text-anchor="middle"
+    fill="white">
+    S
+  </text>
+</svg>
