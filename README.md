@@ -10,3 +10,5 @@ Next Phase:
 - React Development
 - Testing
 - Deployment
+
+--ALL DONE 👍🏻--
