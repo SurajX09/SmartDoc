@@ -1,7 +1,9 @@
 import { useState } from "react";
+
 import Container from "../common/Container";
 import SectionTitle from "../common/SectionTitle";
 import ServiceCard from "../common/ServiceCard";
+
 import { services } from "../../data/services";
 
 function Services() {
@@ -30,6 +32,8 @@ function Services() {
               title={service.title}
               description={service.description}
               features={service.features}
+              featured={service.featured}
+              badge={service.badge}
             />
           ))}
         </div>

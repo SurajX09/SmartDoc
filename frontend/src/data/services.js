@@ -1,5 +1,38 @@
 export const services = [
+  // ================= PRIORITY SERVICES =================
+
+  {
+    id: 2,
+    icon: "💳",
+    title: "PAN Card",
+    description:
+      "Fast and reliable PAN card application, correction and Aadhaar linking services.",
+    featured: true,
+    badge: "Most Requested",
+    features: [
+      "New PAN Application",
+      "PAN Correction",
+      "PAN-Aadhaar Linking",
+    ],
+  },
+
+  {
+    id: 15,
+    icon: "🏥",
+    title: "ESIC Services",
+    description:
+      "Complete ESIC support for employers and employees with registration and updates.",
+    featured: true,
+    badge: "Business Essential",
+    features: [
+      "Employer Registration",
+      "Employee Registration",
+      "ESIC Updates",
+    ],
+  },
+
   // ================= DOCUMENT SERVICES =================
+
   {
     id: 1,
     icon: "🪪",
@@ -11,17 +44,7 @@ export const services = [
       "Name / DOB Correction",
     ],
   },
-  {
-    id: 2,
-    icon: "💳",
-    title: "PAN Card",
-    description: "PAN card application and correction.",
-    features: [
-      "New PAN Application",
-      "PAN Correction",
-      "PAN-Aadhaar Linking",
-    ],
-  },
+
   {
     id: 3,
     icon: "📘",
@@ -33,6 +56,7 @@ export const services = [
       "Re-Issue Assistance",
     ],
   },
+
   {
     id: 4,
     icon: "🚗",
@@ -44,6 +68,7 @@ export const services = [
       "Duplicate License",
     ],
   },
+
   {
     id: 5,
     icon: "🗳️",
@@ -55,6 +80,7 @@ export const services = [
       "Address Change",
     ],
   },
+
   {
     id: 6,
     icon: "👶",
@@ -66,6 +92,7 @@ export const services = [
       "Correction",
     ],
   },
+
   {
     id: 7,
     icon: "💍",
@@ -77,6 +104,7 @@ export const services = [
       "Correction",
     ],
   },
+
   {
     id: 8,
     icon: "🏠",
@@ -88,6 +116,7 @@ export const services = [
       "Status Tracking",
     ],
   },
+
   {
     id: 9,
     icon: "📄",
@@ -113,6 +142,7 @@ export const services = [
       "GST Cancellation",
     ],
   },
+
   {
     id: 11,
     icon: "🏪",
@@ -124,6 +154,7 @@ export const services = [
       "Certificate Download",
     ],
   },
+
   {
     id: 12,
     icon: "🏭",
@@ -135,6 +166,7 @@ export const services = [
       "Update Details",
     ],
   },
+
   {
     id: 13,
     icon: "✍️",
@@ -147,7 +179,7 @@ export const services = [
     ],
   },
 
-  // ================= PF & ESIC =================
+  // ================= PF SERVICES =================
 
   {
     id: 14,
@@ -160,19 +192,8 @@ export const services = [
       "KYC Update",
     ],
   },
-  {
-    id: 15,
-    icon: "🏥",
-    title: "ESIC Services",
-    description: "Employee insurance support.",
-    features: [
-      "Employer Registration",
-      "Employee Registration",
-      "ESIC Updates",
-    ],
-  },
 
-  // ================= FINANCIAL =================
+  // ================= FINANCIAL SERVICES =================
 
   {
     id: 16,
@@ -186,7 +207,7 @@ export const services = [
     ],
   },
 
-  // ================= ONLINE =================
+  // ================= ONLINE SERVICES =================
 
   {
     id: 17,
@@ -199,6 +220,7 @@ export const services = [
       "Government Schemes",
     ],
   },
+
   {
     id: 18,
     icon: "🎓",
@@ -210,6 +232,7 @@ export const services = [
       "Document Upload",
     ],
   },
+
   {
     id: 19,
     icon: "👨‍💼",
@@ -221,6 +244,7 @@ export const services = [
       "Editable Copy",
     ],
   },
+
   {
     id: 20,
     icon: "🖨️",
@@ -233,7 +257,7 @@ export const services = [
     ],
   },
 
-  // ================= TRAVEL =================
+  // ================= TRAVEL SERVICES =================
 
   {
     id: 21,
@@ -246,6 +270,7 @@ export const services = [
       "Cancellation",
     ],
   },
+
   {
     id: 22,
     icon: "🚌",
@@ -257,6 +282,7 @@ export const services = [
       "Cancellation",
     ],
   },
+
   {
     id: 23,
     icon: "✈️",
