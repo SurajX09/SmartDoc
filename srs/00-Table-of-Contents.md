@@ -16,7 +16,7 @@
 
 ## 2. Revision History
 - Version History
-- Document Changes
+- Document Changes 
 - Approval Status
 
 ## 3. Introduction
